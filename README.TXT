@@ -16,3 +16,5 @@ Well, It's simple contacts list but it can be multiple inherited and the structu
 1. Create database by executing SQL script in \database\address_books_structure.sql. Execute \database\address_books_data.sql to create some initial sample data of app
 2. Modify configuration at \config.php with database connection parameter as database hosting, database name, database user, database password
 3. Copy all source code to hosting and testing. Sample as: http://localhost/address_book/
+
+JOE_DEUBG: Test
